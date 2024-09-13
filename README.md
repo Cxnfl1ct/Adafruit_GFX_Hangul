@@ -1,4 +1,6 @@
 # Adafruit_GFX_Hangul
+[English](README.md) | [한국어](README_kr.md)
+
 Library that adds support for printing Korean characters.
 
 ## Overview
