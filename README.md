@@ -8,3 +8,8 @@ This library made to be able to run on low-spec MCUs by utilizing the method of 
 
 If you disable Character Assembly Method, you will be able to choose from Combination font and Complete font.
 
+## Editing Config
+
+`To be done`
+
+asdf
