@@ -1,4 +1,5 @@
 # Adafruit_GFX_Hangul
+[English](README.md) | [한국어](README_kr.md)
 Adafruit GFX Library를 이용하여 한글을 출력하게 해 주는 라이브러리입니다.
 
 ## 종합
