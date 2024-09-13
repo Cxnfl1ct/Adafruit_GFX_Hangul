@@ -3,6 +3,8 @@
 
 Library that adds support for printing Korean characters.
 
+This library was intended to support UTF8 format but I had to make unique character format for the library.
+
 ## Overview
 
 This library made to be able to run on low-spec MCUs by utilizing the method of putting texture of Consonants and Vowels together.
