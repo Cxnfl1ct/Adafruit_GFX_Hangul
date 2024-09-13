@@ -3,7 +3,7 @@
 
 Library that adds support for printing Korean characters.
 
-This library was intended to support UTF8 format but I had to make unique character format for the library.
+This library was intended to support UTF8 format but I had to make unique character format for the library because of an error.
 
 ## Overview
 
